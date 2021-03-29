@@ -4,7 +4,7 @@
 * Ray Huang (ray0727), Team Lead and Point of Contact
 * Yan Liu (ziyan0302)
 * Rich Tong (richtong888)
-* Sam Lin (TODO)
+* Sam Lin (samlin295)
 ## Laptop Setup and Remote Access
 * Laptop 1: Native Ubuntu 18, ROS Melidic; 
 * Laptop 2: Native Ubuntu 18, ROS Melidic; 
