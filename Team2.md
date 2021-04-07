@@ -5,6 +5,7 @@
 * Yan Liu (ziyan0302)
 * Rich Tong (richtong888)
 * Sam Lin (TODO)
+* Evan Lin (freefrit)
 ## Laptop Setup and Remote Access
 * Laptop 1: Native Ubuntu 18, ROS Melidic; VNC Client XX.XX version; 
 * Laptop 2: VirtualBox with Ubuntu 18 and ROS Melidic 
